@@ -1,7 +1,6 @@
 # Data Structures and Computer Algorithms
  Data Structures  and Computer Algorithms 
 
-
 > *NOTES ON COMPUTER ALGORITHMS - [HERE](Computer_Algorithms.md)*
 
 
